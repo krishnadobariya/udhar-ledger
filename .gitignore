@@ -4,7 +4,6 @@ client/node_modules/
 server/node_modules/
 
 # Environment Variables
-.env
 server/.env
 client/.env
 
@@ -13,7 +12,6 @@ client/dist/
 dist/
 
 # IDE and OS files
-.vscode/
 .idea/
 .DS_Store
 Thumbs.db
@@ -28,3 +26,4 @@ logs/
 # Misc
 .vercel
 .turbo
+config.bat
